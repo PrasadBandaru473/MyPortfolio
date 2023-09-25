@@ -293,16 +293,17 @@ li.active,
 }
 
 .items {
-    height: 400px;
-    padding: 30px;
+    height: 25rem;
+    padding: 3rem;
     border: 2px solid #292524;
-    margin: 30px;
+    margin: 3rem;
     text-align: center;
+    object-fit: contain;
+
 }
 
 .items p {
-    width: 400px;
-    height: 400px;
+    width: 25rem;
     object-fit: contain;
     line-height: 2.7rem;
 }
