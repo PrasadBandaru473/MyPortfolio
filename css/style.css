@@ -68,6 +68,7 @@ nav::before {
     width: 100%;
     background-color: #064e3b;
     border-radius: 10px;
+    pointer-events: none;
 }
 
 /* navbar logo */
