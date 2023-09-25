@@ -633,14 +633,15 @@ button:hover {
 }
 
 footer {
-    height: 70px;
+     height: 5.5vh;
     background-color: #292524;
     width: 100vw;
-    position: absolute;
-    right: 0;
+    position: relative;
+    right: 85px;
+    bottom: 0;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center;  
 }
 
 .icons {
