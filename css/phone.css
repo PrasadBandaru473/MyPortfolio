@@ -6,7 +6,7 @@
 
     #toggle {
         top: 0;
-        right:20px;
+        right:15px;
         display: flex;
         background-color: #292524;
     }
@@ -173,6 +173,7 @@
 
     #toggle {
         top: 0;
+        right:10px;
     }
 
     .main ul {
@@ -202,7 +203,7 @@
     #toggle {
         position: relative;
         top: 25px;
-        left: 180px;
+        left: 200px;
     }
 
     .aboutme p {
@@ -253,7 +254,7 @@
 
 @media only screen and (max-width:450px) {
     #toggle {
-        left: 150px;
+        left: 160px;
         width: 15px;
         height: 12px;
     }
@@ -275,7 +276,7 @@
     }
 
     #toggle {
-        left: 120px;
+        left: 130px;
         width: 15px;
         height: 12px;
     }
