@@ -635,8 +635,8 @@ footer {
     height: 70px;
     background-color: #292524;
     width: 100vw;
-    position: relative;
-    right: 100px;
+    position: absolute;
+    right: 0;
     display: flex;
     justify-content: center;
     align-items: center;
