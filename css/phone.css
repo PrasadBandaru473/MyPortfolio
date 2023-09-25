@@ -184,6 +184,15 @@
     .hr {
         left: 175px;
     }
+    .items {
+        width: 20rem;
+        height: 45rem;
+    }
+
+    .items p {
+        width: 20rem;
+        object-fit: contain;
+    }
 }
 
 @media only screen and (max-width:550px) {
@@ -243,7 +252,7 @@
 
    .items {
         width: 20rem;
-        height: 42rem;
+        height: 40.5rem;
     }
 
     .items p {
