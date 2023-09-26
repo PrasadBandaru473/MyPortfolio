@@ -244,11 +244,14 @@
     top: 30px;
  } 
 .center {
-    font-size:3rem;
-   } 
-.line-center{
-    width: 0%;
-   } 
+        text-align: center;
+    font-size: 3rem;
+    }
+
+    .linecenter {
+        width: 0%;
+    }
+ 
 .aboutme p {
     padding: 3px 5px;
     position: relative;
