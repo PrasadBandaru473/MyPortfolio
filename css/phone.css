@@ -244,11 +244,12 @@
 }
 
 .aboutme p {
-    padding: 3px 25px;
+    padding: 3px 5px;
     position: relative;
-    bottom: 60px;
-    font-size: 
+    bottom: 80px;
+    font-size: 2rem;
     line-height: 4rem;
+    text-align:center;
 }
 
 
@@ -279,11 +280,12 @@
 
    .items {
         width: 20rem;
-        height: 43rem;
+        height: 38rem;
     }
 
     .items p {
         width: 20rem;
+        font-size: 2rem
         object-fit: contain;
     }
 }
