@@ -195,12 +195,12 @@
         left: 175px;
     }
     .items {
-        width: 20rem;
-        height: 43rem;
+        width: 15rem;
+        height: 40rem;
     }
 
     .items p {
-        width: 20rem;
+        width: 15rem;
         object-fit: contain;
     }
 }
@@ -269,8 +269,8 @@
 
     .image {
         height: 150px;
-        gap:0 300px;
-        margin: 0;
+        
+        margin: 0 50px;
         padding: 0;
         position: relative;
         top: -100px;
@@ -304,10 +304,10 @@
 
    .items {
         width: 150px;
-        height: 180px;
+        height: 250px;
 position: relative;
        bottom: 10px;
-margin:0;
+margin: 50px;
        padding:0;
     }
 
