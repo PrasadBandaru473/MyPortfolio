@@ -244,8 +244,8 @@
     top: 30px;
  } 
 .center {
-        text-align: center;
-    font-size: 2.5rem;
+     text-align: center;
+    font-size: 2rem !important;
     color: #0c7e5f;
     }
 
@@ -268,7 +268,7 @@
     }
 
     .image {
-        height: 300px;
+        height: 150px;
         margin: 0;
         padding: 0;
         position: relative;
@@ -276,7 +276,7 @@
     }
      
     .image img {
-        width: 360px;
+        width: 150px;
         margin: 0;
     }
 
@@ -287,20 +287,20 @@
 
     .Certifyimage img {
         margin: 0;
-        width: 18rem;
-        height: 18rem;
+        width: 150px;
+        height: 150px;
     }
 
    .items {
-        width: 18rem;
-        height: 18rem;
+        width: 150px;
+        height: 150px;
     }
 
     .items p {
-        width: 18rem;
+        width: 150px;
         font-size: 1rem;
         object-fit: contain;
-        line-height: 1rem;
+        line-height: 0.5rem;
    }
 }
 
