@@ -289,13 +289,13 @@
     }
 
    .items {
-        width: 30rem;
+        width: 28rem;
         height: 25rem;
     }
 
     .items p {
-        width: 30rem;
-        font-size: 1.3rem
+        width: 28rem;
+        font-size: 1.3rem;
         object-fit: contain;
    }
 }
