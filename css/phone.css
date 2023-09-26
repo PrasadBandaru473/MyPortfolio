@@ -269,10 +269,11 @@
 
     .image {
         height: 150px;
+        gap:0 50px;
         margin: 0;
         padding: 0;
         position: relative;
-        top: -50px;
+        top: -100px;
     }
      
     .image img {
@@ -280,9 +281,18 @@
         margin: 0;
         padding:0;
     }
+    .it {
+    background-color: #d6d3d1;
+    height: 100px;
+    width: 100px;
+    text-align: left;
+    font-size: 40px;
+    /* border: 2px solid #292524; */
+    padding: 24px;
+    }
 
     .certifyContainer {
-        gap: 0 0;
+        gap: 0 50px;
         
     }
 
@@ -295,14 +305,24 @@
    .items {
         width: 150px;
         height: 150px;
+position: relative;
+       bottom: 10px;
+
     }
 
     .items p {
         width: 150px;
         font-size: 1rem;
         object-fit: contain;
-        line-height: 0.5rem;
+        line-height: 1rem;
+        text-align: center !important;
    }
+    .items h3 {
+        font-size:1.5rem;
+text-align: center !important;
+
+}
+
 }
 
 @media only screen and (max-width:450px) {
