@@ -297,6 +297,7 @@
         width: 18rem;
         font-size: 1rem;
         object-fit: contain;
+        line-height: 1rem;
    }
 }
 
