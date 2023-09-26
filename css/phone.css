@@ -226,14 +226,31 @@
     }
 
     .aboutme p {
-        font-size: 2rem;
+        font-size: 1rem;
         margin: 0 100px;
         line-height: 3rem;
     }
 
+        
+
     .matter .hr {
         left: 170px;
     }
+    .aboutme img {
+    width: 400px;
+    height: 400px;
+    position: relative;
+    top: 30px;
+}
+
+.aboutme p {
+    padding: 3px 25px;
+    position: relative;
+    bottom: 60px;
+    font-size: 
+    line-height: 4rem;
+}
+
 
     .main::before {
         transform: scale(2);
