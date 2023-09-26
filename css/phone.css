@@ -282,10 +282,13 @@
 
     .certifyContainer {
         gap: 0 0;
+        
     }
 
     .Certifyimage img {
         margin: 0;
+        width: 18rem;
+        height: 18rem;
     }
 
    .items {
