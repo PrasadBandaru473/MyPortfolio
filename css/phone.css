@@ -269,7 +269,7 @@
 
     .image {
         height: 150px;
-        gap:0 100px;
+        gap:0 150px;
         margin: 0;
         padding: 0;
         position: relative;
@@ -317,15 +317,19 @@ position: relative;
         line-height: 1rem;
         text-align: center !important;
         position: relative;
-       bottom: 50px;
+       bottom: 65px;
    }
     .items h3 {
         font-size:1.5rem;
 text-align: center !important;
         position: relative;
-       bottom: 50px;
+       bottom: 55px;
 
 }
+   .contact{
+       position:relative;
+       top:50px
+      } 
 
 }
 
