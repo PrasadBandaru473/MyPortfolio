@@ -269,7 +269,7 @@
 
     .image {
         height: 150px;
-        gap:0 150px;
+        gap:0 250px;
         margin: 0;
         padding: 0;
         position: relative;
@@ -304,7 +304,7 @@
 
    .items {
         width: 150px;
-        height: 150px;
+        height: 180px;
 position: relative;
        bottom: 10px;
 
@@ -314,7 +314,7 @@ position: relative;
         width: 150px;
         font-size: 1rem;
         object-fit: contain;
-        line-height: 1rem;
+        line-height: 1.2rem;
         text-align: center !important;
         position: relative;
        bottom: 65px;
